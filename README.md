@@ -19,7 +19,7 @@ Here's a walkthrough of implemented user stories:
 
 VEJHCjs
 
-<img src='https://www.imgur.com/ZAkwvGQ.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.imgur.com/ZAkwvGQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Kap -->
 GIF created with Kap
