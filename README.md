@@ -17,7 +17,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/VEJHCjs"  ><a href="//imgur.com/a/VEJHCjs">CodePath</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+VEJHCjs
+
+<img src='https://imgur.com/VEJHCjs.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Kap -->
 GIF created with Kap
